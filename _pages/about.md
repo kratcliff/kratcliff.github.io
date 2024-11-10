@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-last_modified_at: "2024-05-01 00:00:00 -0400"
+last_modified_at: "2024-10-20 00:00:00 -0400"
 ---
 ## About me
 
@@ -9,4 +9,4 @@ In my professional life I'm a system administrator. Servers and networks and sec
 
 ## About this web site
 
-I've had my own web site for quite some time, first at kevinratcliff.com and now at [ratcliff.io](https://ratcliff.io). Over the years the various hosting options have changed, and the site is now being hosted by GitHub Pages.
+I've had my own web site for quite some time. Over the years the various hosting options have changed, and the site is now being hosted by GitHub Pages.

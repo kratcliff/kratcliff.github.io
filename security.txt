@@ -1,7 +1,7 @@
-Contact: mailto:kevin@ratcliff.io
 Contact: mailto:kevin@kevinratcliff.com
+Contact: mailto:kevin@ratcliff.io
 Expires: 2025-01-01T04:59:00.000Z
-Encryption: https://ratcliff.io/assets/downloads/0xD919740C54D7F776.public.asc.txt
-Encryption: https://ratcliff.io/assets/downloads/0x55D53B118515521F.public.asc.txt
+Encryption: https://kevinratcliff.com/assets/downloads/0xD919740C54D7F776.public.asc.txt
+Encryption: https://kevinratcliff.com/assets/downloads/0x55D53B118515521F.public.asc.txt
 Preferred-Languages: en
-Canonical: https://ratcliff.io/security.txt
+Canonical: https://kevinratcliff.com/security.txt
