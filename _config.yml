@@ -8,7 +8,7 @@ title                    : "kevinratcliff.com: Kevin M Ratcliff's personal web s
 title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kevin M Ratcliff"
-description              : "Personal web site for Kevin M Ratcliff, a sysadmin and ham radio operator in Bloomington, Indiana."
+description              : "Personal web site for Kevin M Ratcliff, a sysadmin/cybersecurity professional and amateur radio operator in Bloomington, Indiana."
 url                      : "https://kevinratcliff.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kratcliff/kratcliff.github.io"
