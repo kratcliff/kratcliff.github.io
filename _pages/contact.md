@@ -1,7 +1,7 @@
 ---
 title: "Contact Me"
 permalink: /contact/
-last_modified_at: "2024-12-29 00:00:00 -0400"
+last_modified_at: "2026-08-12 00:00:00 -0400"
 ---
 ## Email
 
